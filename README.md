@@ -18,8 +18,7 @@ You can try the app live [here](https://30-days-java-script.vercel.app/).
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/yourusername/drum-kit-app.git
-
+1. Clone the repository: git clone https://github.com/yourusername/Day-01--Drum-Kit-App.git
 
 2. Open `index.html` in your web browser.
 
