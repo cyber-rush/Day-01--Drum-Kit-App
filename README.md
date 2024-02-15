@@ -18,5 +18,25 @@ You can try the app live [here](https://30-days-java-script.vercel.app/).
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/yourusername/drum-kit-app.git
+
+
+2. Open `index.html` in your web browser.
+
+3. Start playing drums by pressing keys on your keyboard or by clicking on the drum pads.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, enhancements, or bug fixes, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
