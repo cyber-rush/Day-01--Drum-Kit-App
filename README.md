@@ -7,7 +7,7 @@ This is a simple Drum Kit web application built using vanilla JavaScript. It all
 
 ## Demo
 
-You can try the app live [here]([https://example.com](https://30-days-java-script.vercel.app/)).
+You can try the app live [here](https://30-days-java-script.vercel.app/).
 
 ## Features
 
